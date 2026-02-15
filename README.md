@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/25327093/README.md)
-# Sitio "Herrería Salinas" — Despliegue en GitHub Pages
+# Sitio "Herrería Artesanal" — Despliegue en GitHub Pages
 
 Este repositorio contiene los archivos del sitio estático:
 - `2026.html`
